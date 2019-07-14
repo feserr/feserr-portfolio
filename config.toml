@@ -3,7 +3,7 @@
 # GLOBAL SITE SETTINGS
 # Parameters used by HUGO to configure the site's global settings.
 
-baseurl = "https://example.org/"
+baseurl = "https://feserr-portfolio.netlify.com"
 languageCode = "es-es"
 title = "Francisco Elías Serrano Martínez-Santos portfolio"
 theme = "hugo-myportfolio-theme"
