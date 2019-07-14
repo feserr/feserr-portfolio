@@ -113,5 +113,5 @@ theme = "hugo-myportfolio-theme"
     # PAGE 404
     [params.page404]
         text = "OOPS, PAGE NOT FOUND!"
-        background_image = "404.jpg"
+        background_image = "404.png"
         button_text = "BACK HOME"
