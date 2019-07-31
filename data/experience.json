@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Network programmer",
+        "company":"Universitat Politècnica de València",
+        "summary":"Creating a high-level network library that provides low latency for cloud based application among other features.",
+        "range":"October 2018 - Present"
+    },
+    {
+        "role":"Researcher",
+        "company":"Universitat Politècnica de València",
+        "summary":"Development a library that allows to transfer all the graphics calls to the cloud.",
+        "range":"June 2015 - September 2018"
+    },
+    {
+        "role":"Junior Software Developer",
+        "company":"Sopra Profit",
+        "summary":"Development of an auto-testing application for the VIVO project that simulates the user tests. Adapt the SO to be compatible with others devices with different specs.",
+        "range":"January 2015 - May 2015"
+    }
+]

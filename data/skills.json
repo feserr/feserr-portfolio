@@ -1,0 +1,22 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","TCP/IP","Infiniband","Verbs"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "C++","C","Python","Java","git","subversion","linux","bash","javascript","sql","LaTeX" ]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Github","MySQL","Hugo","Wordpress"]
+  },
+  {
+    "grouping":"Editors",
+      "skills":[
+          {"name":"Visual Studio","link":"https://visualstudio.microsoft.com"},
+          {"name":"Visual Studio Code","link":"https://code.visualstudio.com"},
+          {"name":"Unity","link":"https://unity.com"},
+          {"name":"Xcode","link":"https://developer.apple.com/xcode/"}
+      ]
+  }
+]
