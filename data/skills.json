@@ -1,22 +1,117 @@
 [
-  {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","TCP/IP","Infiniband","Verbs"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C++","C","Python","Java","git","subversion","linux","bash","javascript","MySQL","LaTeX" ]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Github","Hugo","Wordpress"]
-  },
-  {
-    "grouping":"Editors",
-      "skills":[
-          {"name":"Visual Studio","link":"https://visualstudio.microsoft.com"},
-          {"name":"Visual Studio Code","link":"https://code.visualstudio.com"},
-          {"name":"Unity","link":"https://unity.com"},
-          {"name":"Xcode","link":"https://developer.apple.com/xcode/"}
-      ]
-  }
+    {
+        "grouping": "Architecture",
+        "skills": [ "IP Networking","TCP/IP","Infiniband","Verbs" ]
+    },
+    {
+        "grouping": "Languages, Operating Systems & Tools",
+        "skills": [
+            {
+                "name": "C++",
+                "icon": "code"
+            },
+            {
+                "name": "C",
+                "icon": "code"
+            },
+            {
+                "name": "C#",
+                "icon": "code"
+            },
+            {
+                "name": "Python",
+                "icon": "python"
+            },
+            {
+                "name": "Java",
+                "icon": "java"
+            },
+            {
+                "name": "Javascript",
+                "icon": "javascript"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "LaTeX",
+                "icon": "code"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            },
+            {
+                "name": "Linux",
+                "icon": "linux"
+            },
+            {
+                "name": "bash",
+                "icon": "code"
+            },
+            {
+                "name": "Windows",
+                "icon": "windows"
+            },
+            {
+                "name": "Batch",
+                "icon": "code"
+            },
+            {
+                "name": "MacOS",
+                "icon": "apple"
+            }
+        ]
+    },
+    {
+        "grouping": "Platform Development & Administration",
+        "skills": [
+            {
+                "name": "Github",
+                "icon": "github"
+            },
+            {
+                "name": "Hugo",
+                "icon": "go"
+            },
+            {
+                "name": "Wordpress",
+                "icon": "wordpress"
+            },
+            {
+                "name": "Jenkins",
+                "icon": "jenkins"
+            },
+            {
+                "name": "Trello",
+                "icon": "trello"
+            }
+        ]
+    },
+    {
+        "grouping": "Editors",
+        "skills": [
+            {
+                "name": "Visual Studio",
+                "icon": "visualstudio",
+                "link": "https://visualstudio.microsoft.com"
+            },
+            {
+                "name": "Visual Studio Code",
+                "icon": "visualstudio",
+                "link": "https://code.visualstudio.com"
+            },
+            {
+                "name": "Unity",
+                "icon": "unity_small",
+                "link": "https://unity.com"
+            },
+            {
+                "name": "Xcode",
+                "icon": "swift",
+                "link": "https://developer.apple.com/xcode/"
+            }
+        ]
+    }
 ]
