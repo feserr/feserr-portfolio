@@ -1,6 +1,6 @@
 baseURL = "https://feserr-portfolio.netlify.com"
 languageCode = "en-gb"
-title = "Elías Serrano"
+title = "Elías Serrano portfolio"
 theme = "hugo-resume"
 
 [params]
