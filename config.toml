@@ -14,12 +14,12 @@ theme = "hugo-resume"
     description = "Experienced software developer who loves new challenges in the day-to-day."
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
+    showExperience = true
     showProjects = true
+    showEducation = true
+    showSkills = true
     showOpenSource = false
     showPublications = false
-    showExperience = true
-    showEducation = true
 
     showQr = true
 
