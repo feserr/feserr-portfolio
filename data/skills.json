@@ -4,11 +4,11 @@
       "skills":[ "IP Networking","TCP/IP","Infiniband","Verbs"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C++","C","Python","Java","git","subversion","linux","bash","javascript","sql","LaTeX" ]
+      "skills":[ "C++","C","Python","Java","git","subversion","linux","bash","javascript","MySQL","LaTeX" ]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Github","MySQL","Hugo","Wordpress"]
+      "skills":[ "Github","Hugo","Wordpress"]
   },
   {
     "grouping":"Editors",
