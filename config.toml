@@ -30,7 +30,7 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/feserr_/"
+    link = "https://github.com/feserr/"
 
 [[params.handles]]
     name = "Stack Overflow"
