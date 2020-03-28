@@ -6,7 +6,7 @@ theme = "hugo-resume"
 [params]
     firstName = "Elías"
     lastName = "Serrano"
-    address = "Valencia, Spain"
+    address = "London, United Kingdom"
     # phone = "1-555-555-1234"
     contactNote = "Software Developer"
     profileImage = "images/user.png"

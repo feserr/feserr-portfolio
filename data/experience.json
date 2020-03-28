@@ -1,9 +1,15 @@
 [
     {
+        "role":"Software Developer",
+        "company":"V-Nova Ltd.",
+        "summary":"Developing new tools for the PPlus encoder and decoder..",
+        "range":"November 2019 - Present"
+    },
+    {
         "role":"Network programmer",
         "company":"Universitat Politècnica de València",
         "summary":"Creating a high-level network library that provides low latency for cloud based application among other features.",
-        "range":"October 2018 - Present"
+        "range":"October 2018 - October 2019"
     },
     {
         "role":"Researcher",

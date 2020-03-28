@@ -9,5 +9,5 @@ outputs:
 - rss
 - json
 ---
-<p>Network programer @ <a href="https://www.upv.es">Universitat Politècnica de València</a></p>
+<p>Software Developer @ <a href="https://www.v-nova.com">V-Nova Ltd.</a></p>
 <p>Experienced software developer who loves new challenges in the day-to-day. Pragmatic programmer and well-versed in coding to create high-level libraries. Fluent with version control and continuous integration in order to maintain it stable with the aid of unit tests. Looking for new opportunities that will allow me to grow as a software developer in new exciting ways.</p>
