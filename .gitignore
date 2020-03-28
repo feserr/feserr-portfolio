@@ -11,5 +11,8 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 
+# IDEs
+.vscode
+
 ## Others
 .history_*
