@@ -21,7 +21,7 @@ theme = "hugo-resume"
     showOpenSource = false
     showPublications = false
 
-    showQr = true
+    showQr = false
 
 [[params.handles]]
     name = "LinkedIn"
