@@ -9,6 +9,6 @@ outputs:
 - rss
 - json
 ---
-**Software Engineer @ [V-Nova Ltd.](https://www.v-nova.com)**
+**Software Developer @ [Sky.](https://www.sky.com/)**
 
 Experienced software engineer who loves new challenges in the day-to-day. Pragmatic programmer and well-versed in coding to create high quality code. Fluent with version control and continuous integration in order to maintain it stable with the aid of unit tests. Looking for new opportunities that will allow me to grow as a software engineer in new exciting ways.
