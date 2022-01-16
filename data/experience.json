@@ -1,9 +1,15 @@
 [
     {
+        "role":"Software Developer",
+        "company":"Sky - London (UK)",
+        "summary":"Create and maintain applications for the SkyQ devices.\n\nMigrate dependencies to Conan and automate the package upload.\n\nAdd Gitlab CI actions on most repositories",
+        "range":"August 2020 - Present"
+    },
+    {
         "role":"Software Engineer",
         "company":"V-Nova Ltd. - London (UK)",
         "summary":"Improving the V-Nova LCEVC WebAssembly decoder by adding new feature.\n\nDeveloping the JavaScript integration layer API to use the WebAssembly decoder in any HTML5 player.",
-        "range":"November 2019 - Present"
+        "range":"November 2019 - July 2020"
     },
     {
         "role":"Software Engineer",
