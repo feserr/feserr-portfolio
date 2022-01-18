@@ -1,4 +1,4 @@
-baseURL = "https://feserr-portfolio.netlify.com"
+baseURL = "https://feserr.netlify.app"
 languageCode = "en-gb"
 title = "Elías Serrano portfolio"
 theme = "hugo-resume"
