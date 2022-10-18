@@ -31,8 +31,20 @@
                 "icon": "javascript"
             },
             {
+                "name": "Typescript",
+                "icon": "typescript"
+            },
+            {
+                "name": "Go",
+                "icon": "go"
+            },
+            {
                 "name": "MySQL",
                 "icon": "mysql"
+            },
+            {
+                "name": "React",
+                "icon": "react"
             },
             {
                 "name": "LaTeX",
